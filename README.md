@@ -1,4 +1,4 @@
-### Hi there 👋, I"m Muhammad Zaky Praditama
+## Hi there 👋, I"m Muhammad Zaky Praditama
 ![Jopjop-416](img/1.png)
 
 <!--
