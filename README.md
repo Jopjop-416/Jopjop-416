@@ -17,9 +17,9 @@ Hi 👋, I’m Muhammad Zaky Praditama, an Informatics student at Universitas Mu
 
 ##### Information about me
 
-- 🧑‍💻 I’m currently working on web development and UI/UX design projects
+- 🧑‍💻 I am currently working on Software Engineering projects covering web development and UI/UX design
 - 🗄️ I’m currently learning backend fundamentals, database management, and modern web development
-- 🤝 I’m looking to collaborate on website development, UI/UX design, and digital product projects
+- 🤝 I would like to collaborate in software engineering including website development, UI/UX design, and digital product projects
 - ⚙️ I’m looking for help with backend development, database optimization, and scalable web applications
 - 💡 Ask me about Web Development, UI/UX Design, Figma, Canva, and Database Management
 - 📩 How to reach me: **zakypraditama@gmail.com**
