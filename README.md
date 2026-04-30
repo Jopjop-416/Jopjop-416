@@ -1,4 +1,4 @@
-## Hi there 👋, I"m Muhammad Zaky Praditama
+## Hi there 👋, I'm Muhammad Zaky Praditama
 ![Jopjop-416](img/1.png)
 
 <div align="center">
@@ -9,6 +9,39 @@
 
 
 Hi 👋, I’m Muhammad Zaky Praditama, an Informatics student at Universitas Muhammadiyah Malang 🏫 with a strong interest in web development, UI/UX design, and database management.
+
+<table>
+
+My name is **Muhammad Zaky Praditama**. I'm an Informatics student at **Universitas Muhammadiyah Malang**.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- 🖥️ Web Development / Frontend / Basic Backend / Database Management
+- 🎨 UI/UX Design / Figma / Canva
+- 🗄️ MySQL / SQL / Website Data Management
+- 🔭 I’m currently working on web development and UI/UX design projects
+- 🌱 I’m currently learning backend fundamentals, database management, and modern web development
+- 👯 I’m looking to collaborate on website development, UI/UX design, and digital product projects
+- 🤔 I’m looking for help with backend development, database optimization, and scalable web applications
+- 💬 Ask me about Web Development, UI/UX Design, Figma, Canva, and Database Management
+- 📫 How to reach me: **zakypraditama@umm.ac.id**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: I enjoy turning ideas into clean, functional, and user-friendly digital products
+
+</td>
+<td width="50%" valign="top">
+
+![](https://streak-stats.demolab.com/?user=Jopjop-416&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jopjop-416&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</td>
+</tr>
+</table>
+
+
 
 
 
