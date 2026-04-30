@@ -15,15 +15,14 @@ Hi 👋, I’m Muhammad Zaky Praditama, an Informatics student at Universitas Mu
 <tr>
 <td width="50%" valign="top">
 
-- 🖥️ Web Development / Frontend / Basic Backend / Database Management
-- 🎨 UI/UX Design / Figma / Canva
-- 🗄️ MySQL / SQL / Website Data Management
-- 🔭 I’m currently working on web development and UI/UX design projects
-- 🌱 I’m currently learning backend fundamentals, database management, and modern web development
-- 👯 I’m looking to collaborate on website development, UI/UX design, and digital product projects
-- 🤔 I’m looking for help with backend development, database optimization, and scalable web applications
-- 💬 Ask me about Web Development, UI/UX Design, Figma, Canva, and Database Management
-- 📫 How to reach me: **zakypraditama@gmail.com**
+##### Information about me
+
+- 🧑‍💻 I’m currently working on web development and UI/UX design projects
+- 🗄️ I’m currently learning backend fundamentals, database management, and modern web development
+- 🤝 I’m looking to collaborate on website development, UI/UX design, and digital product projects
+- ⚙️ I’m looking for help with backend development, database optimization, and scalable web applications
+- 💡 Ask me about Web Development, UI/UX Design, Figma, Canva, and Database Management
+- 📩 How to reach me: **zakypraditama@gmail.com**
 </td>
 <td width="50%" valign="top">
 
