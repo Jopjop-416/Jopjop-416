@@ -26,9 +26,9 @@ Hi 👋, I’m Muhammad Zaky Praditama, an Informatics student at Universitas Mu
 </td>
 <td width="50%" valign="top">
 
-![](https://streak-stats.demolab.com/?user=Jopjop-416&theme=dark&hide_border=false)<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Jopjop-416&theme=dark&hide_border=false&cache_seconds=1800)<br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jopjop-416&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Jopjop-416&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
 
 </td>
 </tr>
